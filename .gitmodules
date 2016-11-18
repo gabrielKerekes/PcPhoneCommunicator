@@ -1,3 +1,6 @@
 [submodule "PcPhoneCommunicatorAndroid"]
 	path = PcPhoneCommunicatorAndroid
 	url = https://github.com/gabrielKerekes/PcPhoneCommunicatorAndroid
+[submodule "PcPhoneCommunicatorWeb"]
+	path = PcPhoneCommunicatorWeb
+	url = https://github.com/gabrielKerekes/PcPhoneCommunicatorWeb
